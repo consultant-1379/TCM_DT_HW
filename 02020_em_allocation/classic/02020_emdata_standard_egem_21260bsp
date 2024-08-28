@@ -1,0 +1,13 @@
+                                                               
+     !******************************! 
+     !***   APZ MAG, GARP for AUC  *! 
+     !******************************!  
+
+     !GARP2 AUC GSM!                                                                                
+     EXEMI:RP=1014 ,EM=0  ,EQM=AGEN -0&-1   ,SUID="CAA 204 105            R1A01";                                                                          
+     EXEMI:RP=1016 ,EM=0  ,EQM=AGEN -2&-3   ,SUID="CAA 204 105            R1A01";   
+
+     !GARP2 AUC WCDMA!   
+     EXEMI:RP=1015 ,EM=0  ,EQM=AGEN2-0&-1   ,SUID="CAA 204 244            R1A01"; 
+     EXEMI:RP=1017 ,EM=0  ,EQM=AGEN2-2&-3   ,SUID="CAA 204 244            R1A01"; 
+                                               

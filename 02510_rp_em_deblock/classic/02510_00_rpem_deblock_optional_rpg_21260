@@ -1,0 +1,33 @@
+
+     !===   NOTE   ===!
+     !========================================================!
+     !***   The following RPs will be not deblocked        ***! 
+     !***   during a building of working DUMP on SEA,      ***!
+     !***   because they are optional equipment for        ***!
+     !***   specific purpose and specific test cases.      ***!
+     !--------------------------------------------------------!
+     !***   If you need them, remind to contact ITTE       ***!
+     !***   in order to add this equipment on real STP     ***! 
+     !***   and deblock them when real STP will be ready.  ***!
+     !========================================================! 
+
+     !**************************************!        
+     !***   APT OPTIONAL RPG RPG2&RPG3   ***!       
+     !**************************************!             
+    
+     !RP4S1A!       
+     !BLRPE:RP=104;
+     !BLRPE:RP=105;
+
+     !RPG2 AUC!   
+     !BLRPE:RP=108;
+     !BLRPE:RP=109;
+     !BLRPE:RP=110;
+     !BLRPE:RP=111;
+     
+     !RPG3 AUC!   
+     !BLRPE:RP=112;
+     !BLRPE:RP=113;
+     !BLRPE:RP=114;
+     !BLRPE:RP=115;      
+                 

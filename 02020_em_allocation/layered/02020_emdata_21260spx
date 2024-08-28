@@ -1,0 +1,12 @@
+                                                               
+     !*******************************************************! 
+     !***   APZ MAG, GARP for System Clock Synchronization  *! 
+     !*******************************************************! 
+
+     !GARP1E NTP!
+     EXEMI:RP=   8 ,EM=0  ,EQM=OCITS-2      ,SUID="9000/CXC 146 084       R2E01"; 
+     EXEMI:RP=   8 ,EM=1  ,EQM=JOB  -2      ,SUID="9000/CAA 140 090       R1A03";   
+
+ 
+
+

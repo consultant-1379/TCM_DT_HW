@@ -1,0 +1,10 @@
+                                                               
+     !*******************************************************! 
+     !***   APZ MAG, GARP for System Clock Synchronization  *! 
+     !*******************************************************! 
+
+     !GARP1E NTP!
+     EXRPI:RP=   8 ,TYPE=GARP1E  ;   ! GARP1E NTP       !
+
+
+

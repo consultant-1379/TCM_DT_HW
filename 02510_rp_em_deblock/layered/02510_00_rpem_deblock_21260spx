@@ -1,0 +1,9 @@
+                                                               
+     !*******************************************************! 
+     !***   APZ MAG, GARP for System Clock Synchronization  *! 
+     !*******************************************************!    
+
+     !GARP1E NTP! 
+     !BLRPE:RP=8; !don't deblock in order to avoid FC301!
+
+                                         

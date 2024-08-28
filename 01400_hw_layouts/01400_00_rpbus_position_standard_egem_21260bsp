@@ -1,0 +1,14 @@
+
+     !******************************! 
+     !***   APZ MAG, GARP for AUC  *! 
+     !******************************!    
+  
+     DBTRI;                                                                                  
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=1014 ,BRNO=31 ,MAGNO=0 ,SLOTNO=21 ,BUSCONN=NO ;  ! GARP2E  ALGEN  0&1     !  
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=1015 ,BRNO=31 ,MAGNO=0 ,SLOTNO=22 ,BUSCONN=NO ;  ! GARP2E  ALGEN2 0&1     !  
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=1016 ,BRNO=31 ,MAGNO=0 ,SLOTNO=23 ,BUSCONN=NO ;  ! GARP2E  ALGEN  2&3     !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=1017 ,BRNO=31 ,MAGNO=0 ,SLOTNO=24 ,BUSCONN=NO ;  ! GARP2E  ALGEN2 2&3     !         
+     DBTRE:COM;                                                                              
+
+
+ 

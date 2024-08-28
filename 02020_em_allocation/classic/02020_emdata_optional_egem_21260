@@ -1,0 +1,17 @@
+                                    
+     !*********************************************!             
+     !***   APT EXTRA GARP IN OPTIONAL MAG      ***!       
+     !*********************************************!       
+
+     !GARP2 AUC GSM!                                                                  
+     EXEMI:RP=970  ,EM=0  ,EQM=AGEN-12&-13    ,SUID="CAA 204 105            R1A01";     
+     EXEMI:RP=981  ,EM=0  ,EQM=AGEN-14&-15    ,SUID="CAA 204 105            R1A01";     
+  
+     !GARP2 AUC WCDMA!                                                                
+     EXEMI:RP=971  ,EM=0  ,EQM=AGEN2-12&-13   ,SUID="CAA 204 244            R1A01";     
+     EXEMI:RP=982  ,EM=0  ,EQM=AGEN2-14&-15   ,SUID="CAA 204 244            R1A01";     
+
+
+
+
+

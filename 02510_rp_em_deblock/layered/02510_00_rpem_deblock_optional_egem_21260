@@ -1,0 +1,36 @@
+
+     !===   NOTE   ===!
+     !========================================================!
+     !***   The following RPs will be not deblocked        ***! 
+     !***   during a building of working DUMP on SEA,      ***!
+     !***   because they are optional equipment for        ***!
+     !***   specific purpose and specific test cases.      ***!
+     !--------------------------------------------------------!
+     !***   If you need them, remind to contact ITTE       ***!
+     !***   in order to add this equipment on real STP     ***! 
+     !***   and deblock them when real STP will be ready.  ***!
+     !========================================================! 
+
+     !*********************************************!        
+     !***   APT OPTIONAL MAG EGEM GARP1&GARP2   ***!       
+     !*********************************************!             
+    
+     !SCB-RP!       
+     !BLRPE:RP= 960&961;
+
+     !GARP2 LDAP!   
+     !BLRPE:RP= 966&967&968&984&985&986;
+
+     !*********************************************!
+     !***   APT EXTRA GARP IN OPTIONAL MAG      ***!
+     !*********************************************!
+                                                 
+     !GARP2 AUC GSM!  
+     !BLRPE:RP=970;  
+     !BLRPE:RP=981;  
+
+     !GARP2 AUC WCDMA!  
+     !BLRPE:RP=971; 
+     !BLRPE:RP=982;
+
+                                                          

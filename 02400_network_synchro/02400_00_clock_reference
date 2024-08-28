@@ -1,0 +1,26 @@
+
+     IOTXP:** Network Synchronization, Clock-Reference Connect, Initiate  ****;  
+                                                                           
+	 NSCOI:EXT=EXT-0	,CLREFINL=0		;
+	 NSCOI:RCM=RCM-0	,CLREFINL=9		;
+	 NSCOI:RCM=RCM-1	,CLREFINL=10	;          
+
+
+
+     IOTXP:** Network Synchronization, Clock-Reference Data, Change  *********;  
+
+	 NSDAC:EXT=EXT-0	,PRI=1	,REFGRP=1	,FDL=10000	,WDL=20	,ACL=A2	;  
+	 NSDAC:RCM=RCM-0	,PRI=2	,REFGRP=2	,FDL=100	,WDL=20	,ACL=A2	; 
+	 NSDAC:RCM=RCM-1	,PRI=3	,REFGRP=2	,FDL=100	,WDL=20	,ACL=A2	;             
+
+
+
+     IOTXP:** Network Synchronization, Manual Activation, Initiate  **********; 
+
+	 NSMAI;
+
+
+
+     IOTXP:** Network Synchronization, Clock-Reference Data, Transfer  *******;
+
+	 NSDAT;

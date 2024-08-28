@@ -1,0 +1,45 @@
+                                                               
+     !*********************************************************! 
+     !***   APZ MAG, GARP for System Clock Synchronization  ***! 
+     !*********************************************************! 
+
+     !GARP1E NTP!
+     EXRPI:RP= 975 ,TYPE=GARP1E  ;   ! GARP1E NTP       !
+
+
+
+     !********************************************!
+     !***   STANDARD MAG EGEM GARP1&GARP2    *****!
+     !********************************************!
+
+     !SCB-RP!
+     EXRPI:RP= 992 ,TYPE=RPSCB1E ;   ! SCB-A            !
+     EXRPI:RP= 993 ,TYPE=RPSCB1E ;   ! SCB-B            !
+                                     
+     !GARP2 LDAP!                    
+     EXRPI:RP= 994 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 995 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 996 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 997 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 998 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP=1009 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP=1010 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP=1011 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP=1012 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP=1013 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+                                     
+     !GARP2 SIGTRAN!                 
+     EXRPI:RP=1002 ,TYPE=GARP2E  ;   ! GARP2E SIGTRAN   !
+     EXRPI:RP=1003 ,TYPE=GARP2E  ;   ! GARP2E SIGTRAN   !
+     EXRPI:RP=1006 ,TYPE=GARP2E  ;   ! GARP2E SIGTRAN   !
+     EXRPI:RP=1007 ,TYPE=GARP2E  ;   ! GARP2E SIGTRAN   !
+                                     
+     !GARP1 AUC GSM! 
+     EXRPI:RP=1014 ,TYPE=GARP1E  ;   ! GARP1E AUC GSM   !
+     EXRPI:RP=1016 ,TYPE=GARP1E  ;   ! GARP1E AUC GSM   !  
+   
+     !GARP1 AUC WCDMA!   
+     EXRPI:RP=1015 ,TYPE=GARP1E  ;   ! GARP1E AUC WCDMA !   
+     EXRPI:RP=1017 ,TYPE=GARP1E  ;   ! GARP1E AUC WCDMA !
+
+ 

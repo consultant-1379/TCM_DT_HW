@@ -1,0 +1,19 @@
+
+     !**************************************!        
+     !***   APT OPTIONAL MAG RPG2&RPG3   ***!       
+     !**************************************!       
+
+     !RP4S1A!
+     EXRPI:RP= 104 ,RPT= 105 ,TYPE=RP4S1A  ;   
+           
+     !RPG2A AUC!  
+     EXRPI:RP= 108 ,TYPE=RPG2A  ;
+     EXRPI:RP= 109 ,TYPE=RPG2A  ;
+     EXRPI:RP= 110 ,TYPE=RPG2A  ;
+     EXRPI:RP= 111 ,TYPE=RPG2A  ;
+
+     !RPG3A AUC!  
+     EXRPI:RP= 112 ,TYPE=RPG3A  ;  
+     EXRPI:RP= 113 ,TYPE=RPG3A  ;  
+     EXRPI:RP= 114 ,TYPE=RPG3A  ;  
+     EXRPI:RP= 115 ,TYPE=RPG3A  ;

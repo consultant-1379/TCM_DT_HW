@@ -1,0 +1,34 @@
+
+     !*********************************************!        
+     !***   APT OPTIONAL MAG EGEM GARP1&GARP2   ***!       
+     !*********************************************!       
+
+     !SCB-RP!
+     EXRPI:RP= 960 ,TYPE=RPSCB1E ;   ! SCB-A            !
+     EXRPI:RP= 961 ,TYPE=RPSCB1E ;   ! SCB-B            !
+                                     
+     !GARP2 LDAP!                    
+     EXRPI:RP= 966 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 967 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 968 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 984 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 985 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+     EXRPI:RP= 986 ,TYPE=GARP2E  ;   ! GARP2E LDAP      !
+ 
+
+
+     !*********************************************!
+     !***   APT EXTRA GARP IN OPTIONAL MAG      ***!
+     !*********************************************!
+                                                 
+     !GARP2 AUC GSM!  
+     EXRPI:RP= 970 ,TYPE=GARP2E  ;   ! GARP2E AUC GSM   !
+     EXRPI:RP= 981 ,TYPE=GARP2E  ;   ! GARP2E AUC GSM   !
+
+     !GARP2 AUC WCDMA!  
+     EXRPI:RP= 971 ,TYPE=GARP2E  ;   ! GARP2E AUC WCDMA !
+     EXRPI:RP= 982 ,TYPE=GARP2E  ;   ! GARP2E AUC WCDMA !
+
+
+                                              
+     

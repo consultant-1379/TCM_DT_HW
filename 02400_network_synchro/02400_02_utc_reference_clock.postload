@@ -1,0 +1,20 @@
+
+     IOTXP:** Calendar Function, Device, Set  ********************************;  
+
+     CADES:DEV=2,RC=URC1;                                                                        
+
+
+
+     IOTXP:** Calendar Function, UTC Reference Clock, Configuration, Set  ****;  
+
+     CAUCS:IPB1=10,IPB2=1,IPB3=25,IPB4=10,URC=1;              
+
+
+
+     IOTXP:** Calendar Function, UTC Reference Clock, Initiate  **************;                                       
+
+     CAUCI:URC=1;                                             
+
+                                          
+                                  
+                                                         

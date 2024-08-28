@@ -1,0 +1,40 @@
+
+     !********************************************!
+     !***   APT STANDARD MAG EGEM GARP1&GARP2  ***!
+     !********************************************!
+
+     !SCB-RP!
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 10        R1B01"; ! RPFDR  !
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 20        R2B01"; ! RPMMR  !
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 21        R6A06"; ! RPMBHR !
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 23        R1A01"; ! RPIFDR !
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 097       R5F01"; ! RIEXR  !
+
+     !GARP2E LDAP!
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR  !
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR !
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 591       R7A01"; ! INETR  !
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 126       R1C01"; ! LDAPR  !
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 256       R2J01"; ! GPEX2R !
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 138       R6A04"; ! SDAR   !
+     EXRUI:RP=994&&998&1009&&1013  ,SUID="9000/CXC 146 087       R3A03"; ! IPR    !
+
+     !GARP2 SIGTRAN!
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR  !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 591       R7A01"; ! INETR  !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 256       R2J01"; ! GPEX2R !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 202       R5A05"; ! SCTPR  !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 087       R3A03"; ! IPR    !
+
+     !GARP1 AUC GSM!
+     EXRUI:RP=1014&1016            ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR  !
+     EXRUI:RP=1014&1016            ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR !
+     EXRUI:RP=1014&1016            ,SUID="9000/CXC 146 092       R8H01"; ! GPEXR  !
+     EXRUI:RP=1014&1016            ,SUID="CXC 146 269            R1A05"; ! ALGENR !
+
+     !GARP1 AUC WCDMA!
+     EXRUI:RP=1015&1017            ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR   !
+     EXRUI:RP=1015&1017            ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR  !
+     EXRUI:RP=1015&1017            ,SUID="9000/CXC 146 092       R8H01"; ! GPEXR   !
+     EXRUI:RP=1015&1017            ,SUID="CXC 146 266            R1A07"; ! ALGEN2R !

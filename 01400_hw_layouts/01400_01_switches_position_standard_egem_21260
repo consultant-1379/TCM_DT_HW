@@ -1,0 +1,11 @@
+     
+     !********************************************! 
+     !***  STANDARD GESB MAG EGEM GARP1&GARP2  ***! 
+     !********************************************! 
+                                                                                     
+     DBTRI;                                                                            
+     DBTSI:TAB=RPSRPBESWS ,SWNO=0 ,BRNO=31 ,MAGNO=15 ,SLOTNO=12;  !GESB SIGTRAN!       
+     DBTSI:TAB=RPSRPBESWS ,SWNO=1 ,BRNO=31 ,MAGNO=15 ,SLOTNO= 1;  !GESB LDAP   !       
+     DBTSI:TAB=RPSRPBESWS ,SWNO=2 ,BRNO=31 ,MAGNO=15 ,SLOTNO=23;  !GESB LDAP   !       
+     DBTRE:COM;                                                                        
+                                                                     

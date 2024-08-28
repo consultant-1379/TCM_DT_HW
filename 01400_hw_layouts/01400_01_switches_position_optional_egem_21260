@@ -1,0 +1,18 @@
+ 
+     !*********************************************!  
+     !***   OPTIONAL GESB MAG EGEM GARP1&GARP2   **!  
+     !*********************************************!  
+
+     DBTRI; 
+     DBTSI:TAB=RPSRPBESWS ,SWNO=3 ,BRNO=30 ,MAGNO=14 ,SLOTNO= 1;  !GESB LDAP! 
+     DBTRE:COM;                                                                     
+
+
+
+     !*********************************************!                                
+     !***   EXTRA GESB IN OPTIONAL MAG      *******!                                
+     !*********************************************!                                
+                                                                                    
+     DBTRI;                                                                         
+     DBTSI:TAB=RPSRPBESWS ,SWNO=4 ,BRNO=30 ,MAGNO=14 ,SLOTNO=23;  !GESB LDAP!       
+     DBTRE:COM;                                                                     

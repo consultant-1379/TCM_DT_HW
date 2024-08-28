@@ -1,0 +1,38 @@
+
+     !*********************************************!
+     !***   APT OPTIONAL MAG EGEM GARP1&GARP2   ***!
+     !*********************************************!
+
+     !GARP2 LDAP!
+     EXEMI:RP=966  ,EM=0  ,EQM=SDA-18       ,SUID="9000/CXC 146 138       R6B02";
+     EXEMI:RP=966  ,EM=1  ,EQM=IP -18       ,SUID="9000/CXC 146 087       R3A03";
+
+     EXEMI:RP=967  ,EM=0  ,EQM=SDA-19       ,SUID="9000/CXC 146 138       R6B02";
+     EXEMI:RP=967  ,EM=1  ,EQM=IP -19       ,SUID="9000/CXC 146 087       R3A03";
+
+     EXEMI:RP=968  ,EM=0  ,EQM=SDA-20       ,SUID="9000/CXC 146 138       R6B02";
+     EXEMI:RP=968  ,EM=1  ,EQM=IP -20       ,SUID="9000/CXC 146 087       R3A03";
+
+     EXEMI:RP=984  ,EM=0  ,EQM=SDA-21       ,SUID="9000/CXC 146 138       R6B02";
+     EXEMI:RP=984  ,EM=1  ,EQM=IP -21       ,SUID="9000/CXC 146 087       R3A03";
+
+     EXEMI:RP=985  ,EM=0  ,EQM=SDA-22       ,SUID="9000/CXC 146 138       R6B02";
+     EXEMI:RP=985  ,EM=1  ,EQM=IP -22       ,SUID="9000/CXC 146 087       R3A03";
+
+     EXEMI:RP=986  ,EM=0  ,EQM=SDA-23       ,SUID="9000/CXC 146 138       R6B02";
+     EXEMI:RP=986  ,EM=1  ,EQM=IP -23       ,SUID="9000/CXC 146 087       R3A03";
+
+
+     !*********************************************!
+     !***   APT EXTRA GARP IN OPTIONAL MAG      ***!
+     !*********************************************!
+
+     !GARP2 AUC GSM!
+     EXEMI:RP=970  ,EM=0  ,EQM=ALGEN-96&&-111  ,SUID="CXC 146 269         R1A05";  
+     EXEMI:RP=981  ,EM=0  ,EQM=ALGEN-112&&-127 ,SUID="CXC 146 269         R1A05";  
+
+     !GARP2 AUC WCDMA!
+     EXEMI:RP=971  ,EM=0  ,EQM=ALGEN2-96&&-111 ,SUID="CXC 146 337         R1A01";  
+     EXEMI:RP=982  ,EM=0  ,EQM=ALGEN2-112&&-127,SUID="CXC 146 337         R1A01";  
+     
+ 

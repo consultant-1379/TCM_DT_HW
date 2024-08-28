@@ -1,0 +1,28 @@
+
+     !*********************************************!
+     !***   APT OPTIONAL MAG EGEM GARP1&GARP2   ***!  
+     !*********************************************!
+              
+     DBTRI;                                                                          
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=960  ,BRNO=30 ,MAGNO=14 ,SLOTNO= 0 ,BUSCONN=YES;  ! RPSCB1E SCB-A         ! 
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=966  ,BRNO=30 ,MAGNO=14 ,SLOTNO= 3 ,BUSCONN=NO ;  ! GARP2E  LDAP SDA-14   !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=967  ,BRNO=30 ,MAGNO=14 ,SLOTNO= 4 ,BUSCONN=NO ;  ! GARP2E  LDAP SDA-15   !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=968  ,BRNO=30 ,MAGNO=14 ,SLOTNO= 5 ,BUSCONN=NO ;  ! GARP2E  LDAP SDA-16   !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=984  ,BRNO=30 ,MAGNO=14 ,SLOTNO=20 ,BUSCONN=NO ;  ! GARP2E  LDAP SDA-17   !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=985  ,BRNO=30 ,MAGNO=14 ,SLOTNO=21 ,BUSCONN=NO ;  ! GARP2E  LDAP SDA-18   !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=986  ,BRNO=30 ,MAGNO=14 ,SLOTNO=22 ,BUSCONN=NO ;  ! GARP2E  LDAP SDA-19   !
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=961  ,BRNO=30 ,MAGNO=14 ,SLOTNO=25 ,BUSCONN=YES;  ! RPSCB1E SCB-B         ! 
+     DBTRE:COM;                                                                   
+     
+     
+       
+     !*********************************************! 
+     !***   APT EXTRA GARP IN OPTIONAL MAG      ***! 
+     !*********************************************!
+     
+     DBTRI;  
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=970  ,BRNO=30 ,MAGNO=14 ,SLOTNO=7  ,BUSCONN=NO ;  ! GARP2E  AGEN  -48&&-63 !     
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=971  ,BRNO=30 ,MAGNO=14 ,SLOTNO=8  ,BUSCONN=NO ;  ! GARP2E  AGEN2 -48&&-63 !       
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=981  ,BRNO=30 ,MAGNO=14 ,SLOTNO=17 ,BUSCONN=NO ;  ! GARP2E  AGEN  -64&&-79 !     
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=982  ,BRNO=30 ,MAGNO=14 ,SLOTNO=18 ,BUSCONN=NO ;  ! GARP2E  AGEN2 -64&&-79 !       
+     DBTRE:COM;      

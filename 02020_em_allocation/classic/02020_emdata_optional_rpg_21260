@@ -1,0 +1,22 @@
+
+     !**************************************!
+     !***   APT OPTIONAL MAG RPG2&RPG3   ***!
+     !**************************************!
+
+     !RPG2 AUC GSM!     
+     EXEMI:RP=108  ,EM=0  ,EQM=AGEN-4&-5     ,SUID="CAA 165 0153  	 R1B01"; ! AGENR !
+     EXEMI:RP=110  ,EM=0  ,EQM=AGEN-6&-7     ,SUID="CAA 165 0153  	 R1B01"; ! AGENR !
+ 
+     !RPG2 AUC WCDMA!     
+     EXEMI:RP=109  ,EM=0  ,EQM=AGEN2-4&-5    ,SUID="CAA 165 0200    	 R1B01"; ! AGEN2R !
+     EXEMI:RP=111  ,EM=0  ,EQM=AGEN2-6&-7    ,SUID="CAA 165 0200    	 R1B01"; ! AGEN2R !
+ 
+     !RPG3 AUC GSM!
+     EXEMI:RP=112  ,EM=0  ,EQM=AGEN-8&-9     ,SUID="CAA 204 102    	 R1A01"; ! AGENR !
+     EXEMI:RP=114  ,EM=0  ,EQM=AGEN-10&-11   ,SUID="CAA 204 102    	 R1A01"; ! AGENR !
+
+     !RPG3 AUC WCDMA!     
+     EXEMI:RP=113  ,EM=0  ,EQM=AGEN2-8&-9    ,SUID="CAA 204 243 	 R1A01"; ! AGEN2R !
+     EXEMI:RP=115  ,EM=0  ,EQM=AGEN2-10&-11  ,SUID="CAA 204 243 	 R1A01"; ! AGEN2R !
+
+

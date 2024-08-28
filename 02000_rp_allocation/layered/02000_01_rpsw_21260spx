@@ -1,0 +1,15 @@
+
+     !*******************************************************!
+     !***   APZ MAG, GARP for System Clock Synchronization  *!  
+     !*******************************************************!                 
+
+     !GARP1E NTP!
+     EXRUI:RP=8                    ,SUID="9000/CXC 146 05        R1A03";   ! RPFDR  !
+     EXRUI:RP=8                    ,SUID="9000/CXC 146 03        R1A08";   ! RPIFDR !
+     EXRUI:RP=8                    ,SUID="9000/CXC 146 125       R5B01";   ! INETR  !
+     EXRUI:RP=8                    ,SUID="9000/CXC 146 092       R8H01";   ! GPEXR  !   
+     EXRUI:RP=8                    ,SUID="9000/CAA 140 090       R1A03";   ! JOBR   !
+     EXRUI:RP=8                    ,SUID="9000/CXC 146 084       R2E01";   ! OCITSR !
+
+
+

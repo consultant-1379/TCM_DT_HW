@@ -1,0 +1,21 @@
+
+     !**************************************!
+     !***   APT OPTIONAL MAG RPG2&RPG3   ***!
+     !**************************************!
+
+     !RPG2 AUC GSM!     
+!     EXEMI:RP=108  ,EM=0  ,EQM=ALGEN-32&&-47   ,SUID="CXC 146 269            R1A05"; ! ALGENR !
+!     EXEMI:RP=110  ,EM=0  ,EQM=ALGEN-48&&-63   ,SUID="CXC 146 269            R1A05"; ! ALGENR !
+
+     !RPG2 AUC WCDMA!     
+!    EXEMI:RP=109  ,EM=0  ,EQM=ALGEN2-32&&-47  ,SUID="CXC 146 266            R2A02"; ! ALGEN2R !
+!     EXEMI:RP=111  ,EM=0  ,EQM=ALGEN2-48&&-63  ,SUID="CXC 146 266            R2A02"; ! ALGEN2R !
+ 
+     !RPG3 AUC GSM!
+!     EXEMI:RP=112  ,EM=0  ,EQM=ALGEN-64&&-79   ,SUID="CXC 146 269            R1A05"; ! ALGENR !
+!     EXEMI:RP=114  ,EM=0  ,EQM=ALGEN-80&&-95   ,SUID="CXC 146 269            R1A05"; ! ALGENR !
+
+     !RPG3 AUC WCDMA!     
+!     EXEMI:RP=113  ,EM=0  ,EQM=ALGEN2-64&&-79  ,SUID="CXC 146 266            R2A02"; ! ALGEN2R !
+!     EXEMI:RP=115  ,EM=0  ,EQM=ALGEN2-80&&-95  ,SUID="CXC 146 266            R2A02"; ! ALGEN2R !
+

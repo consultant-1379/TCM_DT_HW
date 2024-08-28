@@ -1,0 +1,15 @@
+                                                               
+     !******************************! 
+     !***   APZ MAG, GARP for AUC  *! 
+     !******************************!  
+
+     !GARP2 AUC GSM! 
+     EXRPI:RP=1014 ,TYPE=GARP2E  ;   ! GARP1E AUC GSM   !
+     EXRPI:RP=1016 ,TYPE=GARP2E  ;   ! GARP1E AUC GSM   !  
+   
+     !GARP2 AUC WCDMA!   
+     EXRPI:RP=1015 ,TYPE=GARP2E  ;   ! GARP1E AUC WCDMA !   
+     EXRPI:RP=1017 ,TYPE=GARP2E  ;   ! GARP1E AUC WCDMA !
+
+
+ 

@@ -1,0 +1,9 @@
+                                                               
+     !*******************************************************! 
+     !***   APZ MAG, GARP for System Clock Synchronization  *! 
+     !*******************************************************! 
+     DBTRI;
+     DBTSI:TAB=RPSRPBSPOS ,RPADDR=8    ,BRNO= 0 ,MAGNO= 1 ,SLOTNO= 1 ,BUSCONN=NO ;
+     DBTRE:COM;
+
+  

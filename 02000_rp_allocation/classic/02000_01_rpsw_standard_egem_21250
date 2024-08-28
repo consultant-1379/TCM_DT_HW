@@ -1,0 +1,33 @@
+
+     !********************************************!
+     !***   APT STANDARD MAG EGEM GARP1&GARP2  ***!
+     !********************************************!
+
+     !SCB-RP!                                                                                
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 10        R1B01"; ! RPFDR  !         
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 20        R2B01"; ! RPMMR  !         
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 21        R6A06"; ! RPMBHR !         
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 23        R1A01"; ! RPIFDR !         
+     EXRUI:RP=992&993              ,SUID="9000/CXC 146 097       R5F01"; ! RIEXR  !                                     
+
+     !GARP2 SIGTRAN!
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR  !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 591       R7A01"; ! INETR  !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 256       R2J01"; ! GPEX2R !
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 202       R5A11"; ! SCTPR  ! 
+     EXRUI:RP=1002&1003&1006&1007  ,SUID="9000/CXC 146 087       R3A03"; ! IPR    !
+      
+     !GARP1 AUC GSM!                                           
+     EXRUI:RP=1014&1016            ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR  !
+     EXRUI:RP=1014&1016            ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR !
+     EXRUI:RP=1014&1016            ,SUID="9000/CXC 146 092       R8H01"; ! GPEXR  !
+     EXRUI:RP=1014&1016            ,SUID="CAA 204 105            R1A01"; ! AGENR  !
+                                     
+     !GARP1 AUC WCDMA!                                               
+     EXRUI:RP=1015&1017            ,SUID="9000/CXC 146 05        R1A03"; ! RPFDR   !
+     EXRUI:RP=1015&1017            ,SUID="9000/CXC 146 03        R1A08"; ! RPIFDR  !
+     EXRUI:RP=1015&1017            ,SUID="9000/CXC 146 092       R8H01"; ! GPEXR   !
+     EXRUI:RP=1015&1017            ,SUID="CAA 204 244            R1A01"; ! AGEN2R  !
+                                              
+                                                                

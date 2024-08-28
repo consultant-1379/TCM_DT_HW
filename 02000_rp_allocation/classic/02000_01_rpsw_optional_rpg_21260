@@ -1,0 +1,34 @@
+
+     !**************************************!
+     !***   APT OPTIONAL MAG RPG2&RPG3   ***!
+     !**************************************!
+
+     ! RP4S1A !
+     EXRUI:RP=104, RPT=105         ,SUID="1/CAA 135 2509/REX     R3B01"; ! REXR !
+     EXRUI:RP=104, RPT=105         ,SUID="1/CAA 135 004/RPFD     R3A01"; ! RPFDR !
+     EXRUI:RP=104, RPT=105         ,SUID="1/CAA 135 005          R1A02"; ! TERTR !
+     EXRUI:RP=104, RPT=105         ,SUID="1/CAA 135 2517/RPMM    R1A01"; ! RPMMR !
+     EXRUI:RP=104, RPT=105         ,SUID="1/CAA 135 2518/RPMBH   R1C02"; ! RPMBHR !
+
+
+     !RPG2 AUC GSM!
+     EXRUI:RP=108&110              ,SUID="9000/CAA 140 044       R1A03"; ! RPFDR !
+     EXRUI:RP=108&110              ,SUID="9000/CAA 140 089       R1A01"; ! RGEXR !
+     EXRUI:RP=108&110              ,SUID="CAA 165 0153        	 R1B01"; ! AGENR !     
+
+     !RPG2 AUC WCDMA!
+     EXRUI:RP=109&111              ,SUID="9000/CAA 140 044       R1A03"; ! RPFDR !
+     EXRUI:RP=109&111              ,SUID="9000/CAA 140 089       R1A01"; ! RGEXR !
+     EXRUI:RP=109&111              ,SUID="CAA 165 0200        	 R1B01"; ! AGEN2R !  
+
+     !RPG3 AUC GSM!
+     EXRUI:RP=112&114              ,SUID="9000/CXC 146 10        R1B01"; ! RPFDR !
+     EXRUI:RP=112&114              ,SUID="9000/CXC 146 27        R5H01"; ! RGEXR !      
+     EXRUI:RP=112&114              ,SUID="CAA 204 102    	     R1A01"; ! AGENR !
+
+     !RPG3 AUC WCDMA!
+     EXRUI:RP=113&115              ,SUID="9000/CXC 146 10        R1B01"; ! RPFDR !
+     EXRUI:RP=113&115              ,SUID="9000/CXC 146 27        R5H01"; ! RGEXR !      
+     EXRUI:RP=113&115              ,SUID="CAA 204 243 		     R1A01"; ! AGEN2R !
+
+

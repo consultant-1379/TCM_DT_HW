@@ -1,0 +1,22 @@
+ 
+     !********************************************!
+     !***   STANDARD MAG EGEM GARP1&GARP2    *****!
+     !********************************************! 
+
+     !SCB-RP! 
+     BLRPE:RP=992&993;    
+
+     !GARP2E LDAP! 
+     BLRPE:RP=994&995&996&997&998;                
+     BLRPE:RP=1009&1010&1011&1012&1013;
+
+     !GARP2 SIGTRAN! 
+     BLRPE:RP=1002&1003&1006&1007;        
+
+     !GARP1 AUC GSM!   
+     BLRPE:RP=1014&1016;         
+
+     !GARP1 AUC WCDMA! 
+     BLRPE:RP=1015&1017;        
+
+                                 
